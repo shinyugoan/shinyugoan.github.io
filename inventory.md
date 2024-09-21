@@ -2,7 +2,7 @@
 layout: page
 title: GNU_IMS
 subtitle: 경상국립대학교 인벤토리 관리 시스템
-cover-img: /assets/img/itu-seokho-m4.jpg
+cover-img: /assets/img/yg.jpg
 ---
 
 <br/>
