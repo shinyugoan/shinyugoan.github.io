@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publication
+title: 경상국립대학교 항공우주공항부
 ---
 
 
