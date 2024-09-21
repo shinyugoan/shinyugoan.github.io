@@ -1,29 +1,41 @@
 ---
 layout: page
 title: GNU_IMS
-subtitle: 경상국립대학교 Inventroy Management System
+subtitle: 경상국립대학교 인벤토리 관리 시스템
 cover-img: /assets/img/itu-seokho-m4.jpg
 ---
 
 <br/>
 
-## About me
+## 시스템 소개
 
-**Seokho Son** is a **_senior researcher_** and **_open source special fellow_** of [ETRI](https://www.etri.re.kr/kor/main/main.etri) (Korean government-funded national research institute). He designs system architectures and devises sophisticated algorithms to accomplish national R&D projects in cloud computing domain.
+**경상국립대학교 인벤토리 관리 시스템(GNU_IMS)**는 항공우주 및 소프트웨어학과의 물품 대여 및 관리를 효율적으로 수행하기 위한 웹 기반 시스템입니다. 학생들과 교직원이 쉽게 물품을 신청하고 관리할 수 있도록 직관적인 인터페이스를 제공합니다. 이 시스템은 물품 대여 신청, 대여 상태 확인, 대여 취소, 문의하기 등의 기능을 포함하고 있습니다.
 
-He has a broad technical background in cloud computing, multi-agent systems, resource management, and decision-making algorithms. He has published more than 20 international [research papers](https://scholar.google.com/citations?user=seokhoson) including highly cited top journals. His research has been presented in several conferences and organizations.
+## 기능 소개
 
-He is carrying out various activities including international standardizations ([ITU-T](https://www.itu.int/en/ITU-T/about/Pages/default.aspx) standards), paper reviews for research journals, and contributions to open source projects.
+### 신청 목록
+사용자가 신청한 물품의 목록을 확인할 수 있습니다. 각 신청 내역은 신청 날짜, 물품명, 대여 상태 등의 정보를 포함합니다.
 
-He is a founding member of the open souce project [Cloud-Barista](https://github.com/cloud-barista) and the leader and maintainer of [CB-Tumblebug](https://github.com/cloud-barista/cb-tumblebug) project.
-Also, he is a member of [Kubernetes](https://kubernetes.io/) and approver/reviewer of localization contents in Kubernetes [Dashboard](https://github.com/kubernetes/dashboard) and [Website](https://github.com/kubernetes/website).
+### 신청하기
+새로운 물품 대여를 신청할 수 있습니다. 사용자는 대여하고자 하는 물품명, 대여 기간 등을 입력하여 신청서를 제출합니다.
 
-He loves to bring new ideas and share it with collaborators. Hello world! &#128525;
+### 취소하기
+이미 신청한 물품 대여를 취소할 수 있습니다. 취소된 대여는 더 이상 유효하지 않으며, 관리자가 확인할 수 있습니다.
 
-## Contact
+### 문의하기
+시스템 사용 중 궁금한 점이나 문제점이 발생한 경우, 문의하기 기능을 통해 관리자에게 문의할 수 있습니다.
 
-```
-Affiliation: Cloud Computing SW Research Section, Future Computing Research Division, Artificial Intelligence Research Laboratory, Electronics and Telecommunications Research Institute (ETRI)
-Office: ETRI 7-563, 218, Gajeong-ro, Yuseong-gu, Daejeon, Republic of Korea
-Email: shsonkorea[at]etri.re.kr or shsongist[at]gmail.com
-```
+## 시스템 관리자 소개
+
+나는 경상국립대학교 항공우주 및 소프트웨어학과의 **_교수_**이자 **_연구 책임자_**입니다. 시스템 아키텍처를 설계하고, 클라우드 컴퓨팅 및 소프트웨어 엔지니어링 분야에서 다양한 연구를 수행하고 있습니다.
+
+그는 클라우드 컴퓨팅, 멀티 에이전트 시스템, 자원 관리 및 의사 결정 알고리즘에 대한 폭넓은 기술 배경을 가지고 있습니다. 20편 이상의 국제 연구 논문을 발표하였으며, 여러 컨퍼런스 및 조직에서 연구 결과를 발표하였습니다.
+
+그는 다양한 국제 표준화 활동, 연구 저널 논문 리뷰 및 오픈 소스 프로젝트 기여 등 여러 활동을 수행하고 있습니다.
+
+그는 오픈 소스 프로젝트 [Cloud-Barista](https://github.com/cloud-barista)의 창립 멤버이자 [CB-Tumblebug](https://github.com/cloud-barista/cb-tumblebug) 프로젝트의 리더 및 유지 관리자입니다. 또한, [Kubernetes](https://kubernetes.io/)의 멤버이며 Kubernetes [Dashboard](https://github.com/kubernetes/dashboard) 및 [Website](https://github.com/kubernetes/website)의 현지화 콘텐츠 승인자/리뷰어입니다.
+
+새로운 아이디어를 제안하고 협업자들과 공유하는 것을 좋아합니다. Hello world! &#128525;
+
+## 문의
+
